@@ -1,0 +1,10 @@
+vm2_open:0.300797
+vm2_open:0.317578
+vm2_close:0.704956
+vm2_close:13.739818
+vm2_allow_sub1:0.071275
+vm2_allow_sub1:0.096964
+vm2_deny_sub1:0.117246
+vm2_deny_sub1:13.519394
+vm1_send_vm2:0.203861
+vm1_send_vm2:0.220556

@@ -1,0 +1,2 @@
+vm2_open/vm2_close,vm2_allow_sub1/vm2_deny_sub1,vm1_send_vm2
+y1:(vm2_open,vm2_allow_sub1)>vm1_send_vm2
